@@ -14,7 +14,7 @@ A cross-platform, real-time file monitoring and backup system with intelligent v
 
 ## Version System
 
-PyBacker uses a sophisticated 4-component version system: `Major.Minor.Patch.Build`
+PyBacker uses a simple 4-component version system: `Major.Minor.Patch.Build`
 
 ### Version Progression
 - **Build** increments with every backup
