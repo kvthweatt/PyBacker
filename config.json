@@ -1,0 +1,44 @@
+{
+    "project_name": "UTTCex",
+    "project_version": "7.0.1.6",
+    "_version_info": "The build number (4th component) will auto-increment on each backup. Backup folders will be named: ProjectName_vX.Y.Z.W",
+    "_comment": "Use forward slashes or double backslashes for Windows paths. The script will normalize them automatically.",
+    "_examples": {
+        "windows_paths": [
+            "C:/Users/Username/Documents/Project",
+            "C:\\Users\\Username\\Documents\\Project",
+            "D:/Backups/Project"
+        ],
+        "linux_paths": [
+            "/home/username/projects/project_name",
+            "~/Documents/project_name",
+            "/mnt/backup/project_name"
+        ],
+        "versioned_backup_structure": [
+            "Base backup dir: ~/Backups/UTTCex6/Backup1/",
+            "First backup: ~/Backups/UTTCex6/Backup1/UTTCex_v6.0.0.2/",
+            "Second backup: ~/Backups/UTTCex6/Backup1/UTTCex_v6.0.0.3/",
+            "Third backup: ~/Backups/UTTCex6/Backup1/UTTCex_v6.0.0.4/"
+        ]
+    },
+    "source_dirs": {
+        "0": "/home/karac/UTTCex7",
+        "1": "/home/karac/UTTCex7_Backup_1"
+    },
+    "backup_dirs": {
+        "0": "/home/karac/UTTCex7_Backup_1",
+        "1": "/home/karac/UTTCex7_Backup_2"
+    },
+    "excluded_dirs": {
+        "0": [
+            ".gitignore",
+            ".git",
+            "__pycache__"
+        ],
+        "1": []
+    },
+    "backup_times": {
+        "0": "0",
+        "1": "120"
+    }
+}

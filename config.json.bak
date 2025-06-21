@@ -1,0 +1,49 @@
+{
+    "project_name": "UTTCex",
+    "project_version": "6.0.0.1",
+    "source_dirs": {
+        "0": "C:\\UTTCex 6\\UTTCex 6",
+        "1": "D:\\UTTCex Backup 1",
+        "2": "C:\\UTTCex 6\\Test UTTCex 6",
+        "3": "D:\\Test UTTCex Backup 1",
+        "4": "C:\\UTTCex 5\\Main",
+        "5": "D:\\UTTcex5 Backup 1",
+        "6": "C:\\UTTCex 5\\Test",
+        "7": "D:\\Test UTTcex5 Backup 1",
+        "8": "C:\\Users\\UTTCex Mainframe\\Desktop\\PyBacker",
+        "9": "D:\\Custom Utilities",
+        "10": "D:\\FTP Server",
+        "11": "C:\\RabbitSwap",
+        "12": "D:\\RabbitSwap Backup 1"
+    },
+    "backup_dirs": {
+        "0": "D:\\UTTCex Backup 1",
+        "1": "D:\\UTTCex Backup 2",
+        "2": "D:\\Test UTTCex Backup 1",
+        "3": "D:\\Test UTTCex Backup 2",
+        "4": "D:\\UTTcex5 Backup 1",
+        "5": "D:\\UTTcex5 Backup 2",
+        "6": "D:\\Test UTTcex5 Backup 1",
+        "7": "D:\\Test UTTcex5 Backup 2",
+        "8": "D:\\PyBacker Backup",
+        "9": "D:\\Custom Utilities Backup",
+        "10": "D:\\FTP Server Backup",
+        "11": "D:\\RabbitSwap Backup 1",
+        "12": "D:\\RabbitSwap Backup 2"
+    },
+    "backup_times": {
+        "0": "0",
+        "1": "120",
+        "2": "0",
+        "3": "120",
+        "4": "0",
+        "5": "120",
+        "6": "0",
+        "7": "120",
+        "8": "120",
+        "9": "120",
+        "10": "120",
+        "11": "0",
+        "12": "120"
+    }
+}
